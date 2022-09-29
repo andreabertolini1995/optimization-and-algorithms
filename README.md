@@ -9,3 +9,5 @@ robot also passes, as close as possible, to certain intermediate regions along i
 * How should we act on the robot so that it also passes exactly on as many intermediate points as possible? ([task 9](https://github.com/andreabertolini1995/robot-transferring-problem/blob/main/task9.m), [task 10](https://github.com/andreabertolini1995/robot-transferring-problem/blob/main/task10.m) and [task 11](https://github.com/andreabertolini1995/robot-transferring-problem/blob/main/task11.m))
 
 For the detailed problem formulation, please refer to this [document](https://github.com/andreabertolini1995/robot-transferring-problem/blob/main/Problem-formulation.pdf).
+
+This project has been completed by using MATLAB's [CVX software](http://cvxr.com/cvx/) for Convex Programming.
