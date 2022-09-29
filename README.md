@@ -8,3 +8,4 @@ robot also passes, as close as possible, to certain intermediate points along it
 robot also passes, as close as possible, to certain intermediate regions along its journey?
 * how should we act on the robot so that it also passes exactly on as many intermediate points as possible?
 
+For the detailed problem formulation, please refer to this [document](https://github.com/andreabertolini1995/robot-transferring-problem/blob/main/Problem-formulation.pdf).
