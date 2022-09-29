@@ -1,5 +1,4 @@
-# optimization-and-algorithms
-MATLAB implementation of a robot transferring from a given position to another desired position. 
+# Transferring a robot
 
 How should we act on a robot so that it transfers from a given position to another desired position?
 We solve three separate variations of this basic question:
